@@ -17,3 +17,4 @@ let g:jsx_ext_required = 0
 
 set wildignore+=*/.git/*,*/.hg/*,*/.svn/*,*/.idea/*,*/.DS_Store,*/node_modules
 
+:set runtimepath^=~/.vim/bundle/vim-erlang-runtime/

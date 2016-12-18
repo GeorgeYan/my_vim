@@ -1,4 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/george/Documents/dmall/test-blog/themes'
-let g:netrw_dirhist_2='/Users/george/Documents/dmall/react-way-immutable-flux/.idea'
